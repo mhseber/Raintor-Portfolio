@@ -90,6 +90,10 @@ const Navbar = () => {
           <FaArrowRight />
           Start Project
         </button>
+        <button className="ml-7 lg:ml-0 btn btn-lg rounded-2xl">
+          <FaArrowRight />
+          Start Project
+        </button>
       </div>
     </div>
   );
